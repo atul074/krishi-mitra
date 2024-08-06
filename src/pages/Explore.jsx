@@ -117,7 +117,7 @@ const Explore=()=>{
                     <div className="flex flex-wrap -m-4">
                         {getAllProduct.map((item, index) => {
                             const { id, title,productImageUrl} = item
-                            console.log(item);
+                           // console.log(item);
                             return (
                                 <motion.div
                                 initial={{ y:200}}
