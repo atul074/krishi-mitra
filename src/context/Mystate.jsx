@@ -2,7 +2,7 @@ import Mycontext from './Mycontext';
 import { useEffect, useState } from 'react';
 import { collection, deleteDoc, doc, onSnapshot, orderBy, query } from 'firebase/firestore';
 import { fireDB } from '../firebase/Firebaseconf';
-import toast from 'react-hot-toast';
+
 
 function Mystate({children}) {
     const [loading, setLoading] = useState(false);

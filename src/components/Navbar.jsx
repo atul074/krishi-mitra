@@ -1,8 +1,6 @@
 import { Link, useNavigate } from "react-router-dom";
 import Searchbar from "./Searchbar";
 import { useSelector } from "react-redux";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faHome, faInfoCircle, faPhone, faSearch } from '@fortawesome/free-solid-svg-icons';
 
 export default function Navbar()
 {

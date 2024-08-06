@@ -8,8 +8,7 @@ import { addToCart, deleteFromCart } from "../redux/Cartslice";
 import Swal from 'sweetalert2';
 import withReactContent from 'sweetalert2-react-content';
 import { motion } from "framer-motion";
-import { GiDuration } from "react-icons/gi";
-//import r from '../assets/1.svg';
+
 
 
 
@@ -49,24 +48,7 @@ const HomePageProductCard = () => {
     return (
       
         <div className=" bg-[#2eaf7d] ">
-            {/* Heading  */}
-            {/* <div className="marquee bg-gray-300 text-black text-3xl py-6  flex whitespace-nowrap overflow-hidden ">
-    <div className="marquee-content flex flex-row  ">
-      <img src={react} className="mx-4 h-10 w-10"/>
-      <img src={a} className="mx-4 h-10 w-10"/>
-      <img src={b} className="mx-4 h-10 w-10"/>        [#2eaf7d]
-      <img src={c} className="mx-4 h-10 w-10"/>
-      <img src={d} className="mx-4 h-10 w-10"/>
-    </div>
-    <div className="marquee-content flex flex-row  ">
-      <img src={react} className="mx-4 h-10 w-10"/>
-      <img src={a} className="mx-4 h-10 w-10"/>
-      <img src={b} className="mx-4 h-10 w-10"/>
-      <img src={e} className="mx-4 h-10 w-10"/>
-      <img src={f} className="mx-4 h-10 w-10"/>
-    </div>
-   
-  </div> */}
+           
    <motion.div
      initial={{ x:1000}}
      whileInView={{x:0 }}
