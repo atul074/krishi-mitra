@@ -59,7 +59,7 @@ const Mylist = () => {
   return (
     <Layout>
       <div className="  py-8 bg-[#2eaf7d]  ">
-        <h1 className="text-xl font-bold text-center text-gray-900 sm:text-2xl p-2 mx-4 bg-blue-gray-200 rounded-3xl">
+        <h1 className="text-xl font-bold text-center text-gray-900 sm:text-2xl p-2 mx-4 bg-gray-200 rounded-3xl">
           मेरी सूची
         </h1>
         <form className="mt-12 px-10">
@@ -113,7 +113,7 @@ const Mylist = () => {
                             {/* text detail */}
                             <div className="px-6 py-4">
         
-                                <p className="font-semibold text-lg inline-block hover:text-blue-gray-800 transition duration-500 ease-in-out">Best
+                                <p className="font-semibold text-lg inline-block hover:text-gray-800 transition duration-500 ease-in-out">Best
                                     {title}</p>
                                 <p className="text-gray-700 text-sm">
                                     {category}

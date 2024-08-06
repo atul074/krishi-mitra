@@ -104,7 +104,7 @@ const Category = () => {
     }, []);
     return(
        
-            <div className="  bg-blue-gray-100 pt-12 pb-1">
+            <div className="  bg-gray-200 pt-12 pb-1">
                 
                 <div 
                    ref={containerRef}

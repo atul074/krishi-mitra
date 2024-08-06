@@ -53,7 +53,7 @@ const HomePageProductCard = () => {
      initial={{ x:1000}}
      whileInView={{x:0 }}
      transition={{ duration: 0.5 }}
-    className="relative flex overflow-x-hidden bg-blue-gray-200  font-semibold rounded-sm">
+    className="relative flex overflow-x-hidden bg-gray-300  font-semibold rounded-sm">
   <div className="py-8 animate-marquee whitespace-nowrap">
     <span className="mx-6 text-4xl">*आसान इंटरफ़ेस</span>
     <span className="mx-6 text-4xl">*उत्पाद जानकारी</span>
@@ -72,7 +72,7 @@ const HomePageProductCard = () => {
 </motion.div>
             <br/>
             <br/>
-            <div className="bg-blue-gray-200 rounded-3xl mx-4 p-2 ">
+            <div className="bg-gray-400 rounded-3xl mx-4 p-2 ">
                 <h1 className=" text-center  text-3xl font-semibold text-white">सर्वोत्तम उत्पाद</h1>
             </div>
 

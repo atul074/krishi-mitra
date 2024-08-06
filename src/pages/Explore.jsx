@@ -104,7 +104,7 @@ const Explore=()=>{
     <div className=" bg-[#2eaf7d]">
             {/* Heading  */}
             <br/>
-            <div className="p-2 mx-4 bg-blue-gray-200 rounded-3xl">
+            <div className="p-2 mx-4 bg-gray-200 rounded-3xl">
                 <h1 className=" text-center text-2xl font-semibold text-black ">
                 सभी उत्पाद</h1>
             </div>

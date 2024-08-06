@@ -59,7 +59,7 @@ MySwal.fire({
             <div className=" bg-[#2eaf7d]">
                 {/* Heading  */}
                 <br/>
-                <div className="p-2 mx-4 bg-blue-gray-200 rounded-3xl">
+                <div className="p-2 mx-4 bg-gray-200 rounded-3xl">
                     <h1 className=" text-center mb- text-2xl font-semibold first-letter:uppercase">{categoryname}</h1>
                 </div>
                 {loading ?
