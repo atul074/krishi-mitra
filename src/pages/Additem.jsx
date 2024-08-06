@@ -28,11 +28,11 @@ const categoryList = [
         //image: 'https://images.pexels.com/photos/20796144/pexels-photo-20796144/free-photo-of-farmer-spraying-herbicides-on-green-field.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
     },
     {
-        name: 'INSECTICIDES/ACARICIDE/MITICIDES'
+        name: 'INSECTICIDES'
        // image: 'https://images.pexels.com/photos/20706708/pexels-photo-20706708/free-photo-of-close-up-of-a-weevil.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
     },
     {
-        name: 'FERTILIZER / SOIL NUTRITION'
+        name: 'FERTILIZER'
       //  image: 'https://media.istockphoto.com/id/1195698889/photo/farmer-is-spraying-weed-medicine-in-their-wheat-fields.jpg?b=1&s=612x612&w=0&k=20&c=bNJNkG7O3JeJX4OvUjGokylmtdGOBKhBx8UUAXe4AAM='
     },
     {
@@ -48,7 +48,7 @@ const categoryList = [
        // image: 'https://media.istockphoto.com/id/1195698889/photo/farmer-is-spraying-weed-medicine-in-their-wheat-fields.jpg?b=1&s=612x612&w=0&k=20&c=bNJNkG7O3JeJX4OvUjGokylmtdGOBKhBx8UUAXe4AAM='
     },
     {
-        name: 'AGI EQUIPMENTS/TOOLS'
+        name: 'AGI EQUIPMENTS'
       
     },
     {

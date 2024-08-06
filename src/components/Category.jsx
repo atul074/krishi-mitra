@@ -20,11 +20,11 @@ const category = [
         image: 'https://cdn-icons-png.flaticon.com/128/5863/5863526.png'
     },
     {
-        name: 'INSECTICIDES/ACARICIDE/MITICIDES',
+        name: 'INSECTICIDES',
         image: 'https://cdn-icons-png.flaticon.com/128/5093/5093656.png'
     },
     {
-        name: 'FERTILIZER / SOIL NUTRITION',
+        name: 'FERTILIZER',
         image: 'https://cdn-icons-png.flaticon.com/128/4849/4849540.png'
     },
     {
@@ -40,7 +40,7 @@ const category = [
         image: 'https://cdn-icons-png.flaticon.com/128/3402/3402109.png'
     },
     {
-        name: 'AGI EQUIPMENTS/TOOLS',
+        name: 'AGI EQUIPMENTS',
         image: 'https://cdn-icons-png.flaticon.com/128/2592/2592037.png'
     },
     {

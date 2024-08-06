@@ -77,7 +77,8 @@ const Signup = () => {
     
 
             setLoading(false);
-            navigate('/login')
+              navigate('/login')
+           
         } catch (error) {
             console.log(error);
             setLoading(false);
